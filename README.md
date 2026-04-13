@@ -60,10 +60,6 @@
 | **DaVinci Resolve** | 作为动态图形辅助层 |
 | **After Effects** | 作为二次包装元素合成 |
 
-## 🤝 参与贡献
-
-欢迎提交 Issue 和 Pull Request！请参阅 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详情。
-
 ## ⚖️ 免责声明
 
 本项目是第三方网页工具，与大疆公司无关，不是 DJI 或大疆的官方产品、官方服务、官方插件，也未获得 DJI 或大疆的认可、授权或背书。

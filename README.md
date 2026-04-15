@@ -59,6 +59,16 @@
 | **Final Cut Pro** | 作为透明素材序列导入 |
 | **DaVinci Resolve** | 作为动态图形辅助层 |
 | **After Effects** | 作为二次包装元素合成 |
+## ☕ Buy Me a Coffee
+
+如果这个项目帮到了你，可以请我喝杯咖啡：
+
+<p align="center">
+  <img src="alipay.jpg" width="220" />
+  <img src="wepay.jpg" width="220" />
+</p>
+
+感谢支持 🙏
 
 ## ⚖️ 免责声明
 
